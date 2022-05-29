@@ -1,10 +1,10 @@
 # House Price Prediction Model (USA) Using Linear Regression
 
 
-## Linear Regression?
+## Linear Regression
 ![LR](assets/lr.jpg)
 
-Linear Regression is a **machine learning algorithm** based on **supervised learning**. It performs a regression task. Regression models a target prediction value based on independent variables. Linear regression is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable :wink:.
+Linear Regression is a **machine learning algorithm** based on **supervised learning**. It performs a regression task. Regression models a target prediction value based on independent variables. Linear regression is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable.
 
 Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). So, this regression technique finds out a linear relationship between x (input) and y(output). Hence, the name is Linear Regression. You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wiki/Linear_regression).
 
@@ -30,7 +30,7 @@ The dataset is available publicly on *Kaggle* Website. You can access or downloa
 
 ![House](assets/house.jpg)
 
-Predicting house prices can help to determine the selling price of a house of a particular region and can help people to find the right time to buy a home.
+Predicting house prices can help to determine the selling price of a house of a particular region and can help people to find the right time to buy a home :house:.
 
 Exploratory Data Analysis is performed on the pre-cleaned dataset. Then a Linear Regression model, a supervised machine learning model, is trained and, house prices are predicted. A model that allows us to put in a few features of a house and returns back an estimate of what the house would sell for.
 

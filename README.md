@@ -1,10 +1,10 @@
 # House Price Prediction Model (USA) Using Linear Regression
 
 
-## What is Linear Regression?
-Linear Regression is a **machine learning algorithm** based on **supervised learning**. It performs a regression task. Regression models a target prediction value based on independent variables. Linear regression is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable :wink:.
-
+## Linear Regression?
 ![LR](assets/lr.jpg)
+
+Linear Regression is a **machine learning algorithm** based on **supervised learning**. It performs a regression task. Regression models a target prediction value based on independent variables. Linear regression is used to predict the value of a variable based on the value of another variable. The variable you want to predict is called the dependent variable. The variable you are using to predict the other variable's value is called the independent variable :wink:.
 
 Linear regression performs the task to predict a dependent variable value (y) based on a given independent variable (x). So, this regression technique finds out a linear relationship between x (input) and y(output). Hence, the name is Linear Regression. You can find a more formal definition on [Wikipedia](https://en.wikipedia.org/wiki/Linear_regression).
 
@@ -22,7 +22,7 @@ This file contains some information about a bunch of houses in regions of the Un
 - *Price* : Price that the house sold at
 - *Address* : Address for the house
 
-The dataset is available publicly on *Kaggle* Website. You can access or download the dataset from [here](), or directly from the[Kaggle](https://www.kaggle.com/datasets/aariyan101/usa-housingcsv) website.
+The dataset is available publicly on *Kaggle* Website. You can access or download the dataset from [here](https://github.com/Deeshu-Jain/House-Price-Prediction-Model-USA-Using-Linear-Regression/blob/main/USA_Housing.csv), or directly from the[Kaggle](https://www.kaggle.com/datasets/aariyan101/usa-housingcsv) website.
 
 
 ## Content
@@ -61,7 +61,7 @@ Exploratory Data Analysis is performed on the pre-cleaned dataset. Then a Linear
 
 You can install Jupyter Notebook Environment from [here](https://jupyter.org/install) or through the [Anaconda Distribution](https://www.anaconda.com/products/distribution) or, can even use any IDE you like.
 
-You can access the **Project Notebook** from [here](https://github.com/Deeshu-Jain/EDA-on-911-Calls/blob/main/EDA%20on%20911%20Calls.ipynb).
+You can access the **Project Notebook** from [here](https://github.com/Deeshu-Jain/House-Price-Prediction-Model-USA-Using-Linear-Regression/blob/main/House%20Price%20Prediction%20Model%20(USA).ipynb).
 
 
 ## Code Snippet
